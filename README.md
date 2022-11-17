@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @sp02081999
+- 👀 I’m interested in ... Autonomus vehicle designing
+- 🌱 I’m currently learning ... Simulink
+- 💞️ I’m looking to collaborate on ... Autonomus Vehicle
+- 📫 How to reach me ... m_surya.prakash
